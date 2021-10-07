@@ -7,6 +7,8 @@ NYU Tandon School of Engineering
 
 Shiffman, it's pronounced *funk*.
 
+Edited by [github.com/burnto](https://github.com/burnto) for node module compatibility.
+
 **p5.func** is a p5 extension that provides new objects and utilities for function generation in the time, frequency, and spatial domains. You might find this module useful for everything from plotting animation paths to generating procedural graphics to designing signal processing algorithms.
 
 **p5.func** contains five new objects:
@@ -35,9 +37,20 @@ Quite a bit of this code is adapted from other sources, notably:
 *  [Robert Bristow-Johnson's Audio EQ Cookbook](http://www.musicdsp.org/files/Audio-EQ-Cookbook.txt)
 *  [Corban Brook's dsp.js](https://github.com/corbanbrook/dsp.js/)
 
-## Download
+## Install
+
+### Install
+
+```
+npm install burnto/p5.js-func
+```
+
+### Direct Download
 * [Library only](https://raw.githubusercontent.com/IDMNYU/p5.js-func/master/lib/p5.func.js)
 * [Minimized library](https://raw.githubusercontent.com/IDMNYU/p5.js-func/master/lib/p5.func.min.js)
+
+
+
 
 ## Examples
 

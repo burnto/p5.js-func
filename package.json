@@ -1,0 +1,23 @@
+{
+  "name": "p5.js-func",
+  "version": "0.2.0",
+  "description": "Function Generators for [p5.js](http://p5js.org)",
+  "main": "lib/p5.func.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burnto/p5.js-func.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burnto/p5.js-func/issues"
+  },
+  "homepage": "https://github.com/burnto/p5.js-func#readme"
+}
