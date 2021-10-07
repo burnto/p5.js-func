@@ -8,6 +8,7 @@
     "lib": "lib"
   },
   "scripts": {
+    "types": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/burnto/p5.js-func/issues"
   },
-  "homepage": "https://github.com/burnto/p5.js-func#readme"
+  "homepage": "https://github.com/burnto/p5.js-func#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }

@@ -1,0 +1,9 @@
+{
+  "include": ["lib/p5.func.js"],
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "types"
+  }
+}
